@@ -1,7 +1,5 @@
 # Scientific Calculator
 
-![Calculator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3_m9jKd6VsZg15OI2Qx1GIT7gwRZ8S9oug&usqp=CAU)
-
 Welcome to the Scientific Calculator GitHub repository! This project aims to provide a versatile scientific calculator for performing a wide range of mathematical calculations. Whether you're a student, a professional, or an enthusiast, this calculator has you covered with its comprehensive set of features.
 
 ## Features
@@ -17,9 +15,7 @@ Welcome to the Scientific Calculator GitHub repository! This project aims to pro
 
 To use the calculator, follow these steps:
 
-1. Clone this repository to your local machine using:
-git clone https://github.com/yourusername/scientific-calculator.git
-
+1. Clone or download zip of this repository to your local machine.
 
 2. Open the `index.html` file in your preferred web browser. The calculator interface will appear.
 
@@ -51,13 +47,9 @@ We welcome contributions to enhance the functionality and user experience of thi
 
 5. Await review and feedback from the project maintainers.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-If you have any questions, suggestions, or feedback, please create an issue in the GitHub repository or contact us at abhrajitdas12245@gmail.com.
+If you have any questions, suggestions, or feedback, please create an issue in the GitHub repository or contact us at 163sabyasachighoshxiis@gmail.com.
 
 Thank you for using and contributing to the Scientific Calculator!
 
